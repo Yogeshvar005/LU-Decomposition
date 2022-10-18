@@ -59,6 +59,8 @@ B = np.array(eval(input()))
 lu, pivot = lu_factor(A)
 x = lu_solve((lu,pivot),B)
 print(x)
+
+
 ```
 
 ## Output:
