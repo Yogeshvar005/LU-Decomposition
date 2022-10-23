@@ -45,7 +45,7 @@ A = np.array(eval(input()))
 P, L, U = lu(A)
 print(L)
 print(U)
-1`
+
 #Program to solve a matrix using LU decomposition.
 #Developed by: Yogeshvar.M
 #RegisterNumber: 22003358
